@@ -1,0 +1,6 @@
+
+## Select profile
+spring:
+  profiles:
+    active: '@activeProfile@'
+
